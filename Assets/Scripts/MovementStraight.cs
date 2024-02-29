@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class MoveStraight : MonoBehaviour
+public class MovementStraight : MonoBehaviour
 {
     [SerializeField] private bool _isMove;
 

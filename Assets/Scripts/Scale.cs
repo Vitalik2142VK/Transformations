@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ChangeScale : MonoBehaviour
+public class Scale : MonoBehaviour
 {
     [SerializeField] private float _speed;
 
